@@ -5,9 +5,6 @@ GCP
 BIGQUery
 DBT
 
-https://airbyte.com/tutorials/modern-data-stack-docker
-
-
 - Criar conta na Google Cloud
 - Criar Projeto na Google Cloud (project id)
 - Criar Dataset no Bigquery (dataset id)
