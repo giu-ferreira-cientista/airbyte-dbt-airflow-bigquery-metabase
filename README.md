@@ -27,7 +27,6 @@ DBT
 
 - Metabase sobe na porta 3000
 - Airflow sobe na porta 8080
-- 
 
 * Dataset pronto pra equipe de ML criar o modelo
  
