@@ -1,2 +1,0 @@
-logs/*
-google-cloud-sdk/**
